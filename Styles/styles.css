@@ -1,0 +1,572 @@
+body{margin:0;
+  padding:0;
+background-color:blue;
+}
+.span0{
+  color:rgb(255,184,33);
+  font-size: 5rem;
+}
+table{
+  font-size: 1.15rem;
+}
+
+a{
+  text-decoration: none;
+}
+.Primary1{
+background-image: url("images/mae-mu-I7A_pHLcQK8-unsplash.jpg");
+height:153.68vh;
+width:100vw;
+}
+.primary1-1{
+position:absolute;
+top:20rem;
+left:10vw;
+width:77.5rem;
+}
+.nav-primary{
+  background:rgba(0, 0, 0, 0.5);
+  /* background-blend-mode:darken; */
+  height:89px;
+  }
+.Primary2{
+  margin:0;
+  background:white;
+  position:absolute;
+  top:153.68vh;
+  width:100vw;
+  height:76.84vh;
+}
+.Primary3{
+  background:rgb(166,43,35);
+  position:absolute;
+  top:230.52vh;
+  height:70vh;
+  width:100vw;
+  margin:0;
+}
+.Primary4{
+  position:absolute;
+  top:300.52vh;
+  width:100vw;
+  height:50vh;
+}
+.Primary5{
+  position:absolute;
+  top:350.52vh;
+  width:100vw;
+  height:150vh;
+  background:white;
+}
+.pirmary5-1{
+  text-align: center;
+}
+.Primary6{
+  position:absolute;
+  top:500.52vh;
+  width:100vw;
+  height:70vh;
+  background:rgba(0, 0, 0, 0.6) url("images/applebees-burger-special-landing-page-desktop.jpg");
+  background-blend-mode: darken;
+  background-size: 100vw 70vh;
+}
+.primary6-1{
+  color:white;
+  text-align: center;
+}
+.Primary7{
+  position:absolute;
+  top:540.52vh;
+  left:25vw;
+  width:50vw;
+  height:50vh;
+}
+.Primary8{
+  position:absolute;
+  top:570.52vh;
+  width:100vw;
+  height:100vh;
+  background:white;
+  z-index:-1;
+}
+.Primary9{
+  position:absolute;
+  top:590.52vh;
+  left:25vw;
+  width:50vw;
+  height:50vh;
+  }
+.primary9-1{
+ text-align:center;
+ position:absolute;
+ left:1vw;
+ top:16vh;
+ width:11vw;
+ height:18vh;
+}
+.primary9-2{
+ text-align:center;
+ position:absolute;
+ left:13vw;
+ top:16vh;
+ width:11vw;
+ height:18vh;
+}
+.primary9-3{
+ text-align:center;
+ position:absolute;
+ left:25vw;
+ top:16vh;
+ width:11vw;
+ height:18vh;
+}
+.primary9-4{
+ text-align:center;
+ position:absolute;
+ left:37vw;
+ top:16vh;
+ width:11vw;
+ height:18vh;
+}
+.Primary10{
+  position:absolute;
+  top:640.52vh;
+  left:25vw;
+  width:50vw;
+  height:75vh;
+  background:rgba(0, 0, 0, 0.6) url("images/impossible-burger-al.jpg");
+  background-size: 50vw 75vh;
+  background-blend-mode: darken;
+  color:white;
+  }
+.primary10-1{
+  position:absolute;
+  left:25vw;
+  width:25vw;
+  height:75vh;
+}
+.Primary11{
+  position:absolute;
+  top:670.52vh;
+  width:100vw;
+  height:80vh;
+  background:rgb(166,43,35);
+  z-index:-1;
+}
+.Primary12{
+  position:absolute;
+  top:715.52vh;
+  left:25vw;
+  width:50vw;
+  height:15vh;
+  background:rgb(255,184,33);
+}
+.primary12-1{
+  position:absolute;
+  top:5vh;
+  font-size: 1.8rem;
+  color:white;
+  height:5vh;
+  width:25vw;
+  }
+  .primary12-2{
+    position:absolute;
+    top:5vh;
+    right:0;
+    color:white;
+    height:5vh;
+    width:15vw;
+    background: rgb(166,43,35);
+    }
+    .Primary13{
+      position:absolute;
+      top:750.52vh;
+      width:100vw;
+      height:40vh;
+      background:rgba(0, 0, 0, 0.6) url("images/burger-specials-landing-page-desktop.jpg");
+      background-blend-mode: darken;
+      background-size: 100vw 40vh;
+      z-index:-1;
+    }
+    .primary13-1{
+      position:absolute;
+      top:7vh;
+      left:13vw;
+      height:20vh;
+      width:19.5vw;
+    }
+    .primary13-2{
+      position:absolute;
+      top:7vh;
+      left:40vw;
+      color:white;
+      height:20vh;
+      width:19.5vw;
+    }
+    .primary13-3{
+      position:absolute;
+      top:7vh;
+      left:67vw;
+      color:white;
+      height:20vh;
+      width:19.5vw;
+      }
+      .primary13-3a{
+         color:rgb(255,184,33);
+      }
+.item{
+  display:inline-block;
+  padding-left:2rem;
+  padding-left:2rem;
+  color:white;
+}
+.nav{
+  height:89px;
+  background:rgba(0, 0, 0,0);
+  width:50rem;
+  position:absolute;
+  left:20rem;
+}
+.p{
+  padding-left:5rem;
+}
+.p1{
+  font-weight: bold;
+  color:rgb(255,184,33);
+  font-family:sans-serif;
+  margin:0;
+  font-size:25rem;
+}
+.p2{
+font-family: sans-serif;
+margin:0;
+color:white;
+font-size:10rem;
+font-weight: bold;
+}
+.p3{
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight:bold;
+}
+.p4{
+  font-size:1.2rem;
+}
+.p-div{
+  display:inline;
+  text-align:center;
+}
+.img{
+  position:absolute;
+}
+.img2{
+position:absolute;
+left:70vw;
+/* opacity:60%; */
+}
+.photo-div{
+  margin-top:5rem;
+  position:absolute;
+  left:15vw;
+}
+.imgb1{
+  height: 20rem;
+  width:24rem;
+}
+.imgb2{
+  padding-left:3rem;
+  padding-right:3rem;
+  height: 20rem;
+  width:24rem;
+}
+.imgb3{
+  height:20rem;
+  width:24rem;
+}
+.burger-img{
+  position:absolute;
+  right:0;
+  width:23vw;
+}
+.burger4{
+    position:absolute;
+    top:-8vh;
+    right:0;
+    height:78vh;
+    z-index: 1;
+}
+.para{
+  position:absolute;
+  top:5rem;
+  left:20rem;
+}
+.p5{
+  font-weight:bold;
+  font-size:3rem;
+  color:white;
+}
+.p6{
+  color:white;
+  font-size:1rem;
+}
+.p7{
+  font-weight:bold;
+  margin:0;
+  color:rgb(255,184,33);
+  font-size:8rem;
+}
+.cheese{
+  font-weight:bolder;
+  position:absolute;
+  top:13rem;
+  left:22rem;
+  color:white;
+}
+.divp1{
+  background:rgba(0, 0, 0, 0.55) url("images/burgerking.jpg");
+  background-blend-mode: darken;
+  background-size:33.33vw 50vh;
+  margin:0;
+  padding:0;
+  position:absolute;
+  height:50vh;
+  width:33.33vw;
+}
+.divp1-2,.divp2-2,.divp3-2{
+  text-align:center;
+  margin-top: 15vh;
+}
+.divp2{
+background:rgba(0, 0, 0, 0.55) url("images/close-burger-shop-260nw-1566556354.jpg");
+background-blend-mode: darken;
+background-size:33.33vw 50vh;
+margin:0;
+padding:0;
+position:absolute;
+left:33.33vw;
+height:50vh;
+width:33.33vw;
+}
+.divp3{
+  background:rgba(0, 0, 0, 0.55) url("images/photo1jpg.jpg");
+  background-blend-mode: darken;
+  background-size:33.33vw 50vh;
+  margin:0;
+  padding:0;
+  position:absolute;
+  left:66.66vw;
+  height:50vh;
+  width:33.33vw;
+}
+.p12,.p13,.p14{
+  color:white;
+}
+.p11{
+  margin:0;
+  margin-bottom: 1.5rem;
+  font-size:2.5rem;
+  color:white;
+  font-weight:bold;
+}
+.p15{
+font-size: 2.5rem;
+font-weight:bold;
+}
+.p16{
+  margin-bottom:10rem;
+}
+.photo1{
+  height:10rem;
+  width:14rem;
+}
+.photo2{
+  height:10rem;
+  width:14rem;
+}
+.photo3{
+  height:10rem;
+  width:14rem;
+}
+.photo4{
+  height:10rem;
+  width:14rem;
+}
+.photo5{
+  height:10rem;
+  width:14rem;
+}
+.photo6{
+  height:10rem;
+  width:14rem;
+}
+.inline{
+  display:inline;
+}
+.photo01{
+  position:absolute;
+  left:15vw;
+}
+.photo02{
+  position:absolute;
+  left:45vw;
+}
+.photo03{
+  position:absolute;
+  left:75vw;
+}
+.photo04{
+  position:absolute;
+    left:15vw;
+    top:80vh;
+}
+.photo05{
+  position:absolute;
+  left:45vw;
+  top:80vh;
+}
+.photo06{
+  position:absolute;
+  left:75vw;
+  top:80vh;
+}
+.photoprize1{
+  color:rgb(255,184,33);
+  font-size:2rem;
+  font-weight: bold;
+  margin:0;
+}
+.photoprize2{
+  color:rgb(255,184,33);
+  font-size:2rem;
+  font-weight: bold;
+  margin:0;
+}
+.photoprize3{
+  color:rgb(255,184,33);
+  font-size:2rem;
+  font-weight: bold;
+  margin:0;
+}
+.photoprize4{
+  color:rgb(255,184,33);
+  font-size:2rem;
+  font-weight: bold;
+  margin:0;
+}
+.photoprize5{
+  color:rgb(255,184,33);
+  font-size:2rem;
+  font-weight: bold;
+  margin:0;
+}
+.photoprize6{
+  color:rgb(255,184,33);
+  font-size:2rem;
+  font-weight: bold;
+  margin:0;
+}
+.p28-1{
+  font-size: 3rem;
+}
+.p28-2{
+  font-size: 1.65rem;
+}
+.p29{
+  font-size:1.2rem;
+  font-weight: bold;
+  margin:0;
+}
+.p30{
+  font-size:0.85rem;
+  margin:0;
+}
+.p31{
+  margin-top:12rem;
+  font-size:3rem;
+}
+.p32{
+  font-size:1.5rem;
+}
+.p33{
+  margin:0;
+}
+.p34{
+  margin:0.5rem 0 0 2rem;
+  font-size:1.2rem;
+}
+.btn{
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  background: #ffb921;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin:1vh;
+}
+.f{
+  position: static;
+}
+.p35{
+  color:white;
+  font-size: 0.95rem;
+}
+
+.pin{
+  float:left;
+  margin-right: 0.5vw;
+}
+.c{
+color:rgb(255,184,33);
+}
+.input1{
+  background:transparent;
+  border:solid 1px;
+  border-color: rgb(255,184,33);
+  border-radius:0.4rem;
+  color:white;
+  height:3.5vh;
+  width:18.5vw;
+  margin-bottom:1vh;
+}
+.input2{
+  background: rgb(255,184,33);
+  border-radius:0.4rem;
+  height:3.8vh;
+  width:19vw;
+  padding:2px;
+  border:2px;
+  color:white;
+}
+.hr{
+position:absolute;
+bottom:8vh;
+background: rgb(255,184,33);
+border:none;
+height:0.1vh;
+width:80vw;
+margin-left: 10vw;
+margin-right: 10vw;
+}
+.copyright{
+  /* text-align: center; */
+  position:absolute;
+  bottom:3vh;
+  width:28vw;
+  margin-left: 36vw;
+  margin-right: 36vw;
+}
+.copyimg{
+  float:left;
+  margin:0 0.2vw 0 0;
+}
+.p38{
+  color:white;
+  margin:0 0 0 0.5vw  ;
+}
+.span1{
+  color:rgb(255,184,33);
+  text-decoration: underline;
+}
