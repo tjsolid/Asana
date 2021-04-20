@@ -29,6 +29,11 @@ width:77.5rem;
   /* background-blend-mode:darken; */
   height:89px;
   }
+  .nav-primary1{
+    position:absolute;
+    top:16.25px;
+    left:70vw;
+  }
 .Primary2{
   margin:0;
   background:white;
@@ -260,8 +265,8 @@ font-weight: bold;
   position:absolute;
 }
 .img2{
-position:absolute;
-left:70vw;
+height:48px;
+width:48px;
 /* opacity:60%; */
 }
 .photo-div{
