@@ -2,16 +2,20 @@ body{margin:0;
   padding:0;
 background-color:blue;
 }
-.span0{
-  color:rgb(255,184,33);
-  font-size: 5rem;
-}
+
 table{
   font-size: 1.15rem;
 }
 
 a{
   text-decoration: none;
+}
+p{
+  font-family: sans-serif;
+}
+.span0{
+  color:rgb(255,184,33);
+  font-size: 5rem;
 }
 .Primary1{
 background-image: url("images/mae-mu-I7A_pHLcQK8-unsplash.jpg");
@@ -20,14 +24,13 @@ width:100vw;
 }
 .primary1-1{
 position:absolute;
-top:20rem;
+top:65vh;
 left:10vw;
-width:73vw;
+width:45vw;
 height:58.5vh;
 }
 .nav-primary{
   background:rgba(0, 0, 0, 0.5);
-  /* background-blend-mode:darken; */
   height:89px;
   }
   .nav-primary1{
@@ -65,7 +68,7 @@ height:58.5vh;
   background:white;
 }
 .pirmary5-1{
-  text-align: center;
+  text-align:center;
 }
 .Primary6{
   position:absolute;
@@ -241,14 +244,15 @@ height:58.5vh;
   color:rgb(255,184,33);
   font-family:sans-serif;
   margin:0;
-  font-size:42vh;
+  font-size:16vw;
+
 }
 .p2{
 font-family: sans-serif;
 margin:0;
 color:white;
-font-size:16.5vh;
-font-weight: bold;
+font-size:4.85vw;
+font-weight:bold;
 }
 .p3{
   text-align: center;
