@@ -131,7 +131,7 @@ margin-top:12vh;;
  position:absolute;
  left:6vw;
  top:16vh;
- width:12vw;
+ width:15vw;
  height:18vh;
 }
 .primary9-2{
@@ -139,7 +139,7 @@ margin-top:12vh;;
  position:absolute;
  left:24vw;
  top:16vh;
- width:12vw;
+ width:15vw;
  height:18vh;
 }
 .primary9-3{
@@ -147,7 +147,7 @@ margin-top:12vh;;
  position:absolute;
  left:42vw;
  top:16vh;
- width:12vw;
+ width:15vw;
  height:18vh;
 }
 .primary9-4{
@@ -155,7 +155,7 @@ margin-top:12vh;;
  position:absolute;
  left:60vw;
  top:16vh;
- width:12vw;
+ width:15vw;
  height:18vh;
 }
 .Primary10{
@@ -223,6 +223,8 @@ margin-top:12vh;;
       background:rgba(0, 0, 0, 0.6) url("images/burger-specials-landing-page-desktop.jpg");
       background-blend-mode:darken;
       background-size: 100vw 40vh;
+      overflow:inherit;
+
       }
     .primary13-1{
       position:absolute;
@@ -470,116 +472,140 @@ width:33vw;
   margin-top: 0;
 }
 .p15{
-font-size: 2.5rem;
+  margin-top: 90px;
+  margin-bottom: 5px;
+font-size:46px;
 font-weight:bold;
 }
 .p16{
   margin-bottom:10rem;
+  font-size:23px;
+}
+.photos{
+  position:absolute;
+  top:28vh;
+  /* background: blue; */
+  height:90vh;
+  width:90vw;
+  left:9vw;
 }
 .photo1{
-  height:10rem;
-  width:14rem;
+  height:14rem;
+  width:21rem;
 }
 .photo2{
-  height:10rem;
-  width:14rem;
+  height:15rem;
+  width:19rem;
 }
 .photo3{
-  height:10rem;
-  width:14rem;
+  height:14rem;
+  width:18rem;
 }
 .photo4{
-  height:10rem;
-  width:14rem;
+  height:12rem;
+  width:18rem;
 }
 .photo5{
-  height:10rem;
-  width:14rem;
+  height:12rem;
+  width:19rem;
 }
 .photo6{
-  height:10rem;
-  width:14rem;
+  height:12rem;
+  width:19rem;
 }
 .inline{
   display:inline;
 }
 .photo01{
   position:absolute;
-  left:15vw;
+  left:0vw;
 }
 .photo02{
   position:absolute;
-  left:45vw;
+  left:30vw;
 }
 .photo03{
   position:absolute;
-  left:75vw;
+  left:60vw;
 }
 .photo04{
+  width:20vw;
   position:absolute;
-    left:15vw;
-    top:80vh;
+    left:0vw;
+    top:50vh;
 }
 .photo05{
+width:20vw;
   position:absolute;
-  left:45vw;
-  top:80vh;
+  left:30vw;
+  top:50vh;
 }
 .photo06{
+  width:20vw;
   position:absolute;
-  left:75vw;
-  top:80vh;
+  left:60vw;
+  top:50vh;
 }
 .photoprize1{
   color:rgb(255,184,33);
-  font-size:2rem;
+  font-size:56px;
   font-weight: bold;
   margin:0;
 }
 .photoprize2{
   color:rgb(255,184,33);
-  font-size:2rem;
+  font-size:56px;
   font-weight: bold;
   margin:0;
 }
 .photoprize3{
   color:rgb(255,184,33);
-  font-size:2rem;
+  font-size:56px;
   font-weight: bold;
   margin:0;
 }
 .photoprize4{
   color:rgb(255,184,33);
-  font-size:2rem;
+  font-size:56px;
   font-weight: bold;
   margin:0;
 }
 .photoprize5{
   color:rgb(255,184,33);
-  font-size:2rem;
+font-size:56px;
   font-weight: bold;
   margin:0;
 }
 .photoprize6{
   color:rgb(255,184,33);
-  font-size:2rem;
+font-size:56px;
   font-weight: bold;
   margin:0;
 }
+.p17,.p19,.p21,.p23,.p25,.p27{
+  font-size: 23px;
+  font-weight: bolder;
+}
+.p18,.p20,.p22,.p24,.p26,.p28{
+  font-size: 15px;
+  font-family: 'Raleway', sans-serif;
+}
 .p28-1{
-  font-size: 3rem;
+  font-size:49px;
+  font-weight: 900;
 }
 .p28-2{
-  font-size: 1.65rem;
+  font-size:23px;
 }
 .p29{
-  font-size:1.2rem;
+  font-size:28px;
   font-weight: bold;
   margin:0;
 }
 .p30{
-  font-size:0.85rem;
+  font-size:15px;
   margin:0;
+  line-height: 27px;
 }
 .p31{
   margin-top:8rem;
